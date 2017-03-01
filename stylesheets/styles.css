@@ -19,7 +19,7 @@
   font-style: normal;
 }
 
-html body {
+html, body {
   height: 100%;
 }
 
